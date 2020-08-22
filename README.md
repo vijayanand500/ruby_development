@@ -5,7 +5,6 @@
 - Command to run 
 `ruby_development on  master [?] ❯ ruby game_of_life.rb`
 
-- Console out
 ```
 Number of rounds: 
 2
