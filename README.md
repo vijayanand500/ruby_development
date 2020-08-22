@@ -2,8 +2,11 @@
 
 ## NON-GUI solution 
 
+- Command to run 
+`ruby_development on  master [?] ❯ ruby game_of_life.rb`
+
+- Console out
 ```
-ruby_development on  master [?] ❯ ruby game_of_life.rb 
 Number of rounds: 
 2
 
