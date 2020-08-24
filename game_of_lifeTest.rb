@@ -3,7 +3,7 @@ require_relative 'game_of_life'
 
 include Test::Unit::Assertions
 
-class gameOfLifeTest
+class GameOfLifeTest
   def test_change
     testInput = [[0,0,0], [1,1,1], [0,0,0]]
     expectedOutput = [[0,1,0],[0,1,0],[0,1,0]]
